@@ -11,17 +11,7 @@ body {
      font-size: 20px;
  }
 
- .nav-link .bi-facebook::before {
-        content: "";
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        -webkit-mask: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="blue" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V16H232.78c-76.28 0-100.86 46.81-100.86 129.87v74.83H55.14v92.66h76.78v224H279.14z"/></svg>');
-        background-color: white;
-        width: 100%;
-        height: 100%;
-     }
+ 
  
  
  .css-3d-text {
